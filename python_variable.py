@@ -4,3 +4,6 @@
 
 name = "Shahpar"
 print(name)
+
+name_2 = "Ghada"
+print(name_2)
